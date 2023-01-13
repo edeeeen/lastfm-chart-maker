@@ -23,14 +23,14 @@ The font used is [Pixel Code by qwerasd205](https://github.com/qwerasd205/PixelC
 
 ## Example Charts
 
-######3x3
+###### 3x3
 ![Collage](https://user-images.githubusercontent.com/69705324/212221222-3adc1052-576e-461a-ad94-2afd1fa2294f.jpg)
 
-######4x4
+###### 4x4
 ![Collage](https://user-images.githubusercontent.com/69705324/212221260-7d2f4730-2e17-4282-ba7b-55a432506dd8.jpg)
 
-######5x5
+###### 5x5
 ![Collage](https://user-images.githubusercontent.com/69705324/212221372-3c791376-1d31-4f6d-ba31-8bfc9b757bdb.jpg)
 
-######10x10
+###### 10x10
 ![Collage](https://user-images.githubusercontent.com/69705324/212221443-3576f7c0-5e4e-433a-894b-0b1355b31cde.jpg)
