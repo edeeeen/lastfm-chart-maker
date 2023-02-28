@@ -7,7 +7,7 @@ First put your last.fm API key in the quotes on line 7
 
 You can get an API key for yourself [here.](https://www.last.fm/api/account/create)
 
-Then grab your API key from [here] (https://www.last.fm/api/accounts) once you get your api account.
+Then grab your API key from [here](https://www.last.fm/api/accounts) once you get your api account.
 
 Install the python requirements
 ```pip -r requirements.txt```
