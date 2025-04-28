@@ -1,5 +1,5 @@
 # lastfm-chart-maker
-Create a lastfm chart with python.  This is basically a complete compy of https://tapmusic.net/ and they host it and it is probably better so I would probably just use that instead if I were you.  
+Create a lastfm chart with python.  This is basically just https://tapmusic.net/ but something I wanted to make for fun.    
 
 ## Setup
 First put your last.fm API key in the quotes on line 7
